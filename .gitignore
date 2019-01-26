@@ -1,0 +1,6 @@
+/src/.idea
+*.db
+Thumbs.db
+/.idea
+/nbproject/private/
+nbproject

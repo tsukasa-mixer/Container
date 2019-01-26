@@ -1,0 +1,13 @@
+{
+	"name": "tsukasa/container",
+	"description": "DI Container",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Tsukasa\\Container\\": "src/"
+		}
+	},
+	"require": {
+		"psr/container": "~1"
+	}
+}
